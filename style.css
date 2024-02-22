@@ -135,11 +135,6 @@ a {
     position: absolute;
     top: 30px;
     left: 30px;
-<<<<<<< HEAD
     width: 50px;
     height: auto;
-=======
-    width: 50px; /* Ajustez la largeur selon vos besoins */
-    height: auto; /* Ajustez la hauteur selon vos besoins ou utilisez "height: 40px" si vous souhaitez une taille fixe */
->>>>>>> ea9ba8a269f8c71a624fcf0f731abaead6c7dd4c
 }
